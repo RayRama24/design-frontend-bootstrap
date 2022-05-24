@@ -1,0 +1,89 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+}
+.navbar {
+  font-size: 35px;
+  padding-left: px;
+  font-family: "Imprint MT Shadow";
+  text-decoration: none;
+  color: #333333;
+}
+.navbar a:hover {
+  color: #206bc7;
+}
+
+.navbar2 {
+  background: #063268;
+  height: ;
+  padding-top: 0;
+}
+.garis {
+  color: #fff;
+  height: 0px;
+  font-size: 28px;
+  padding: 0 10px;
+}
+ul {
+  padding: 0%;
+  font-size: 20px;
+}
+#carouselExampleControls {
+  display: block;
+}
+img {
+}
+.carousel-caption {
+  font-family: "Algerian", "Imprint MT Shadow";
+}
+
+a {
+}
+
+.container,
+.row,
+.col {
+}
+.kartu {
+  text-align: ;
+}
+.awal {
+  font-size: 20px;
+}
+.helo {
+  color: rgb(93, 163, 253);
+  font-family: Segoe Print, Orator Std;
+}
+.card-img-top {
+  width: 20px;
+}
+
+.container2 {
+  margin: 0 5rem;
+}
+
+.spesial {
+}
+.footer {
+  color: #fff;
+}
+.footer h5 {
+}
+.footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+.jdl {
+  padding: 3px;
+  border-bottom: 2px solid;
+  max-width: fit-content;
+  border-color: #18ba9b;
+.footer h5 {
+  padding: 2px;
+  border-bottom: 1px solid;
+}
